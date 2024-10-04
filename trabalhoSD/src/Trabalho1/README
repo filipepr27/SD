@@ -1,0 +1,34 @@
+# Trabalho1
+
+Este repositório contém os arquivos relacionados ao Trabalho 1 da disciplina de Sistemas Distribuídos.
+
+## Arquivos
+
+* `ExcMutDescentralizado.java`: Implementação do algoritmo de exclusão mútua descentralizado.
+* `Socket.java`: Classe utilizada para estabelecer conexões entre os clientes e o servidor.
+* `README.md`: Este arquivo, que contém informações sobre o repositório e seus arquivos.
+
+## Descrição do Trabalho
+
+O Trabalho 1 consiste na implementação de um algoritmo de exclusão mútua descentralizado, que permite que múltiplos clientes acessem um recurso compartilhado de forma segura e eficiente.
+
+## Requisitos
+
+* Java 8 ou superior
+* Biblioteca de sockets do Java
+
+## Compilação e Execução
+
+Para compilar e executar o código, siga os seguintes passos:
+
+1. Clone o repositório para sua máquina local.
+2. Compile o código utilizando o comando `javac` no arquivo `ExcMutDescentralizado.java`.
+3. Execute o código utilizando o comando `java` no arquivo `ExcMutDescentralizado.class`.
+
+## Autores
+
+* [Seu Nome]
+
+## Licença
+
+Este repositório é distribuído sob a licença MIT.

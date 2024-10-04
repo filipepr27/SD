@@ -6,6 +6,10 @@ Este repositório contém os arquivos relacionados ao Trabalho 1 da disciplina d
 
 * `ExcMutDescentralizado.java`: Implementação do algoritmo de exclusão mútua descentralizado.
 * `Socket.java`: Classe utilizada para estabelecer conexões entre os clientes e o servidor.
+* `Mensagem.java`: Classe que representa uma mensagem enviada entre os clientes e o servidor.
+* `Lider.java`: Classe que implementa a lógica do líder do sistema.
+* `Agencia.java`: Classe que implementa a lógica da agência do sistema.
+* `Cliente.java`: Classe que implementa a lógica do cliente do sistema.
 * `README.md`: Este arquivo, que contém informações sobre o repositório e seus arquivos.
 
 ## Descrição do Trabalho
@@ -22,13 +26,9 @@ O Trabalho 1 consiste na implementação de um algoritmo de exclusão mútua des
 Para compilar e executar o código, siga os seguintes passos:
 
 1. Clone o repositório para sua máquina local.
-2. Compile o código utilizando o comando `javac` no arquivo `ExcMutDescentralizado.java`.
-3. Execute o código utilizando o comando `java` no arquivo `ExcMutDescentralizado.class`.
+2. Compile o código utilizando o comando `javac` nos arquivos `.java`.
+3. Execute o código utilizando o comando [java]
 
 ## Autores
 
-* [Seu Nome]
-
-## Licença
-
-Este repositório é distribuído sob a licença MIT.
+* Filipe Pádua Ribeiro

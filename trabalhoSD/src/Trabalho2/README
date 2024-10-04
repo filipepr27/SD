@@ -1,0 +1,32 @@
+# Trabalho2
+
+Este repositório contém os arquivos relacionados ao Trabalho 2 da disciplina de Sistemas Distribuídos.
+
+## Arquivos
+
+* `DES.java`: Implementação dos métodos para gerenciar as chaves de ciptografia DES.
+* `ClienteDes.java`: Classe que implementa o cliente de sockets se comunicando via TCP com o servidor e com uso da criptografia DES.
+* `ServidorDes.java`: Classe que implementa o servidor de sockets se comunicando via TCP com o cliente e com uso da criptografia DES.
+* `Trabalho2.java`: Classe principal que inicia o programa e instancia os sockets.
+* `README.md`: Este arquivo, que contém informações sobre o repositório e seus arquivos.
+
+## Descrição do Trabalho
+
+O Trabalho 2 consiste na implementação de um sistema de comunicação entre clientes e servidor, utilizando sockets e protocolo DES de criptografia.
+
+## Requisitos
+
+* Java 8 ou superior
+* Biblioteca de sockets do Java
+
+## Compilação e Execução
+
+Para compilar e executar o código, siga os seguintes passos:
+
+1. Clone o repositório para sua máquina local.
+2. Compile o código utilizando o comando `javac` nos arquivos `.java`.
+3. Execute o código utilizando o comando `java` nos arquivos `.class`.
+
+## Autores
+
+* Filipe Pádua RIbeiro

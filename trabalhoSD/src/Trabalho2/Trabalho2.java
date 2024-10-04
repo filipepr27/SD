@@ -1,3 +1,5 @@
+package Trabalho2;
+
 public class Trabalho2 {
 
     public static void main(String[] args) throws InterruptedException {
